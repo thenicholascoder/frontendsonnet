@@ -1,3 +1,8 @@
+# How to run
+1. Clone the file
+1. In your terminal, type npm install,
+1. Type npm run serve
+
 # Sonnet Front-End Code Test
 A brief set of exercises to demonstrate your experience and capabilities as a Frontend developer.
 
